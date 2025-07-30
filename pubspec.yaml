@@ -1,8 +1,8 @@
-name: soti_schema
+name: soti_schema_plus
 description: A powerful tool for generating schemas from Dart data classes, enabling seamless integration with AI models and data validation systems.
 version: 1.0.0
-homepage: https://github.com/shtse8/SotiSchema
-repository: https://github.com/shtse8/SotiSchema
+homepage: https://github.com/jtmuller5/SotiSchema
+repository: https://github.com/jtmuller5/SotiSchema
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
